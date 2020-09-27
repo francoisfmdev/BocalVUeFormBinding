@@ -1,0 +1,16 @@
+.adminForm {
+  width: 100%;
+  margin-top: 150px;
+}
+
+.profil {
+  width: 100%;
+  margin-top: 150px;
+}
+
+.Rimg {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px 100px;
+  margin-bottom: 80px;
+}
